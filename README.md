@@ -1,2 +1,2 @@
 # NLP-For-Sentiment-Analysis
-NLP model for Sentiment Analysis in Twitter
+NLP model using LSTM for Sentiment Analysis in Twitter
